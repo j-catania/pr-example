@@ -1,2 +1,2 @@
 # pr-example
-Edition 01
+Edition 02
